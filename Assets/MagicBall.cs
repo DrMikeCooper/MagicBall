@@ -27,4 +27,8 @@ public class MagicBall : MonoBehaviour {
 void FunctionB()
 {
 }
+
+    void ConflictA()
+    {
+    }
 }
