@@ -23,4 +23,8 @@ public class MagicBall : MonoBehaviour {
         if (Input.GetKeyDown(KeyCode.W))
             GetComponent<Rigidbody>().AddForce(new Vector3(0, 500, 0));
     }
+
+void FunctionB()
+{
+}
 }
