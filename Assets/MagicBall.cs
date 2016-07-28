@@ -28,13 +28,13 @@ void FunctionB()
 {
 }
 
-<<<<<<< HEAD
+
     void ConflictA()
     {
     }
-=======
+
 void ConflictB()
 {
 }
->>>>>>> f0d83716a9433263e9e62aca8e3ba1f0dad50c1f
+
 }
