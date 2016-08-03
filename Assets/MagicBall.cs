@@ -32,5 +32,8 @@ void FunctionB()
 void ConflictB()
 {
 }
+    void NormalCode()
+    {
+    }
 
 }
