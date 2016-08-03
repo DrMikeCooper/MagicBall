@@ -22,6 +22,9 @@ public class MagicBall : MonoBehaviour {
     {
     }
 
+
+    //Player 2 Code
+
 	// Update is called once per frame
 	void Update () {
         Vector3 pos = transform.position;
