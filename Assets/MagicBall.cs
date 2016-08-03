@@ -13,6 +13,10 @@ public class MagicBall : MonoBehaviour {
     {
     }
 
+    void MakeObjectShiny(GameObject obj)
+    {
+    }
+
 	// Update is called once per frame
 	void Update () {
         Vector3 pos = transform.position;
