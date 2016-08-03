@@ -8,10 +8,6 @@ public class MagicBall : MonoBehaviour {
 	
 	}
 
-    void MainComputer()
-    {
-    }
-
 	// Update is called once per frame
 	void Update () {
         Vector3 pos = transform.position;
