@@ -8,6 +8,11 @@ public class MagicBall : MonoBehaviour {
 	
 	}
 
+    // Dr Mike's branch
+    void MakeEverythingShiny(float alpha)
+    {
+    }
+
 	// Update is called once per frame
 	void Update () {
         Vector3 pos = transform.position;
