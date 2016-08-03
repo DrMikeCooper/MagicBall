@@ -8,6 +8,10 @@ public class MagicBall : MonoBehaviour {
 	
 	}
 
+    void AddNavigation()
+    {
+    }
+
     // Dr Mike's branch
     void MakeEverythingShiny(float alpha)
     {
