@@ -10,6 +10,7 @@ public class MagicBall : MonoBehaviour {
 
     void AddNavigation()
     {
+        doNav();
     }
 
     // Dr Mike's branch
