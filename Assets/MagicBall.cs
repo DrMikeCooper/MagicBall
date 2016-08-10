@@ -7,9 +7,10 @@ public class MagicBall : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+        bool UserA = true;
 	}
 
+    
     void AddNavigation()
     {
         doNav();
