@@ -38,6 +38,7 @@ public class MagicBall : MonoBehaviour {
         transform.position = pos;
         if (Input.GetKeyDown(KeyCode.W))
             GetComponent<Rigidbody>().AddForce(new Vector3(0, 500, 0));
+        bool UserB = true;
     }
 
 void FunctionB()
