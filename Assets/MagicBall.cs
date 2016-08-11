@@ -4,7 +4,8 @@ using System.Collections;
 public class MagicBall : MonoBehaviour {
 
     //Player 1 code
-
+	bool isUserA;
+	
 	// Use this for initialization
 	void Start () {
         bool userA = true;
