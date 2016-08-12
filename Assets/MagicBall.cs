@@ -22,5 +22,10 @@ public class MagicBall : MonoBehaviour {
         bool UserBChange = true;
 		if (UserBChange)
 			return;
+
+        // some normal dev code
+        int x;
+        if (Input.GetKey(KeyCode.A))
+            x = 0;
     }
 }
