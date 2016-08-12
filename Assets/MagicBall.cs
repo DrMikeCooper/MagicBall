@@ -18,6 +18,7 @@ public class MagicBall : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
+        nv.Update();
         bool UserBChange = true;
 		if (UserBChange)
 			return;
