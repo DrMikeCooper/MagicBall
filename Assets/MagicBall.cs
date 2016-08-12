@@ -7,6 +7,8 @@ public class MagicBall : MonoBehaviour {
 	bool isUserA;
 	bool isUserB;
 
+    NavMesh nv;
+
 	// Use this for initialization
 	void Start () {
         bool userA = true;
