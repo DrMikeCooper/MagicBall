@@ -14,6 +14,7 @@ public class MagicBall : MonoBehaviour {
         bool userA = true;
 		if (userA)
 			Debug.Log("I am the Greatest!");
+        Debug.Log("not!");
 	}
 
 	// Update is called once per frame
